@@ -1,0 +1,6 @@
+experiment_id,dominant_phase,phase_purity,secondary_phases,bandgap,plqy,particle_size,emission_peak,solution_color,precipitate_observed,characterization_methods,synthesis_success,yield_percentage,additional_properties,analysis_date,notes
+EXP_20250622_085836,Failed,0.182,,1.357,1.0,1.0,450,colorless or pale yellow,True,"XRD,UV-vis,PL,TEM",True,72.2,"{""emission_fwhm"": 19.8, ""stokes_shift"": 10.8}",2025-06-23,Demo experiment simulating Failed formation
+EXP_20250622_085836,Cs4PbBr6_0D,0.906,,1.514,1.0,1.0,450,pale green,False,"XRD,UV-vis,PL,TEM",False,36.0,"{""emission_fwhm"": 21.7, ""stokes_shift"": 9.2}",2025-06-23,Demo experiment simulating Cs4PbBr6_0D formation
+EXP_20250622_085836,Cs4PbBr6_0D,0.176,,1.59,1.0,1.0,450,pale green,False,"XRD,UV-vis,PL,TEM",False,18.0,"{""emission_fwhm"": 23.9, ""stokes_shift"": 12.1}",2025-06-23,Demo experiment simulating Cs4PbBr6_0D formation
+EXP_20250622_085836,Mixed,0.549,CsPb2Br5_2D,1.403,1.0,1.0,450,green with yellow tint,False,"XRD,UV-vis,PL,TEM",False,36.5,"{""emission_fwhm"": 16.4, ""stokes_shift"": 13.2}",2025-06-23,Demo experiment simulating Mixed formation
+EXP_20250622_085836,CsPb2Br5_2D,0.419,,1.632,1.0,1.0,450,yellow-green,False,"XRD,UV-vis,PL,TEM",False,23.2,"{""emission_fwhm"": 20.3, ""stokes_shift"": 11.5}",2025-06-23,Demo experiment simulating CsPb2Br5_2D formation

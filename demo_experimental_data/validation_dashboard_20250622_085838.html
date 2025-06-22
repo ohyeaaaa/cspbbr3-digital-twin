@@ -1,0 +1,129 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CsPbBr₃ Digital Twin Validation Dashboard</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .header { background: #2c3e50; color: white; padding: 20px; text-align: center; }
+        .metric { background: #ecf0f1; padding: 15px; margin: 10px; border-radius: 5px; }
+        .success { background: #d5f4e6; }
+        .warning { background: #ffeaa7; }
+        .error { background: #fab1a0; }
+        table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+        th, td { padding: 10px; text-align: left; border-bottom: 1px solid #ddd; }
+        th { background-color: #34495e; color: white; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>CsPbBr₃ Digital Twin Validation Dashboard</h1>
+        <p>Generated on 2025-06-22T08:58:36.829371</p>
+    </div>
+    
+    <div class="metric error">
+        <h2>Overall Performance</h2>
+        <p><strong>Phase Prediction Accuracy:</strong> 0.0%</p>
+        <p><strong>Total Experiments:</strong> 5</p>
+        <p><strong>Successful Predictions:</strong> 0</p>
+    </div>
+    
+    <div class="metric">
+        <h2>Confidence Analysis</h2>
+        <p><strong>Mean Confidence:</strong> 0.430</p>
+        <p><strong>Confidence vs Accuracy Correlation:</strong> nan</p>
+    </div>
+
+    <div class="metric">
+        <h2>Property Prediction Accuracy</h2>
+        <table>
+            <tr><th>Property</th><th>Mean Error (%)</th><th>Median Error (%)</th><th>Measurements</th></tr>
+
+            <tr>
+                <td>Bandgap</td>
+                <td>2.1%</td>
+                <td>2.1%</td>
+                <td>5</td>
+            </tr>
+
+            <tr>
+                <td>Plqy</td>
+                <td>87.5%</td>
+                <td>87.5%</td>
+                <td>5</td>
+            </tr>
+
+            <tr>
+                <td>Particle Size</td>
+                <td>58.1%</td>
+                <td>58.1%</td>
+                <td>5</td>
+            </tr>
+
+            <tr>
+                <td>Emission Peak</td>
+                <td>96.9%</td>
+                <td>96.9%</td>
+                <td>5</td>
+            </tr>
+
+        </table>
+    </div>
+
+    <div class="metric">
+        <h2>Recent Experiments</h2>
+        <table>
+            <tr><th>Experiment ID</th><th>Predicted Phase</th><th>Actual Phase</th><th>Correct</th><th>Confidence</th></tr>
+
+            <tr>
+                <td>EXP_20250622_085836</td>
+                <td>CsPbBr3_3D</td>
+                <td>Failed</td>
+                <td>❌</td>
+                <td>0.430</td>
+            </tr>
+
+            <tr>
+                <td>EXP_20250622_085836</td>
+                <td>CsPbBr3_3D</td>
+                <td>Failed</td>
+                <td>❌</td>
+                <td>0.430</td>
+            </tr>
+
+            <tr>
+                <td>EXP_20250622_085836</td>
+                <td>CsPbBr3_3D</td>
+                <td>Failed</td>
+                <td>❌</td>
+                <td>0.430</td>
+            </tr>
+
+            <tr>
+                <td>EXP_20250622_085836</td>
+                <td>CsPbBr3_3D</td>
+                <td>Failed</td>
+                <td>❌</td>
+                <td>0.430</td>
+            </tr>
+
+            <tr>
+                <td>EXP_20250622_085836</td>
+                <td>CsPbBr3_3D</td>
+                <td>Failed</td>
+                <td>❌</td>
+                <td>0.430</td>
+            </tr>
+
+        </table>
+    </div>
+    
+    <div class="metric">
+        <h2>Recommendations</h2>
+        <ul>
+<li>⚠️ Model accuracy is low. Consider retraining with more experimental data.</li>
+        </ul>
+    </div>
+    
+</body>
+</html>

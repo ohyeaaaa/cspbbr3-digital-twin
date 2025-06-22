@@ -1,0 +1,54 @@
+{
+  "n_samples": 2000,
+  "columns": [
+    "cs_br_concentration",
+    "pb_br2_concentration",
+    "temperature",
+    "oa_concentration",
+    "oam_concentration",
+    "reaction_time",
+    "solvent_type",
+    "supersaturation",
+    "nucleation_rate",
+    "growth_rate",
+    "solvent_effect",
+    "phase_label",
+    "prob_3d",
+    "prob_0d",
+    "prob_2d",
+    "prob_mixed",
+    "prob_failed",
+    "bandgap",
+    "plqy",
+    "emission_peak",
+    "particle_size",
+    "emission_fwhm",
+    "size_distribution_width",
+    "lifetime",
+    "stability_score",
+    "phase_purity",
+    "sample_id",
+    "dataset_version"
+  ],
+  "phase_distribution": {
+    "0": 855,
+    "3": 580,
+    "4": 251,
+    "1": 242,
+    "2": 72
+  },
+  "parameter_ranges": {
+    "cs_br_concentration": {
+      "min": 0.2180686854648017,
+      "max": 3.0
+    },
+    "pb_br2_concentration": {
+      "min": 0.23033868334304794,
+      "max": 2.0
+    },
+    "temperature": {
+      "min": 80.0,
+      "max": 248.57171141045526
+    }
+  }
+}

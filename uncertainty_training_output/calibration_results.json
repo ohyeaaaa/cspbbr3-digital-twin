@@ -1,0 +1,95 @@
+{
+  "bayesian": {
+    "uncertainty_accuracy_correlation": 0.13418276733103943,
+    "calibration_curve": [
+      {
+        "uncertainty_range": [
+          0.1,
+          0.2
+        ],
+        "avg_uncertainty": "0.18421601",
+        "accuracy": 0.3333333333333333,
+        "count": "6"
+      },
+      {
+        "uncertainty_range": [
+          0.2,
+          0.30000000000000004
+        ],
+        "avg_uncertainty": "0.26305917",
+        "accuracy": 0.3306122448979592,
+        "count": "245"
+      },
+      {
+        "uncertainty_range": [
+          0.30000000000000004,
+          0.4
+        ],
+        "avg_uncertainty": "0.31767392",
+        "accuracy": 0.4161073825503356,
+        "count": "149"
+      }
+    ],
+    "mean_uncertainty": "0.28222048",
+    "uncertainty_std": "0.036495615"
+  },
+  "mcdropout": {
+    "uncertainty_accuracy_correlation": 0.06683487641790825,
+    "calibration_curve": [
+      {
+        "uncertainty_range": [
+          0.0,
+          0.1
+        ],
+        "avg_uncertainty": "0.08338058",
+        "accuracy": 0.44765342960288806,
+        "count": "277"
+      },
+      {
+        "uncertainty_range": [
+          0.1,
+          0.2
+        ],
+        "avg_uncertainty": "0.12827244",
+        "accuracy": 0.4426229508196721,
+        "count": "122"
+      },
+      {
+        "uncertainty_range": [
+          0.2,
+          0.30000000000000004
+        ],
+        "avg_uncertainty": "0.20298737",
+        "accuracy": 1.0,
+        "count": "1"
+      }
+    ],
+    "mean_uncertainty": "0.097371615",
+    "uncertainty_std": "0.02655938"
+  },
+  "ensemble": {
+    "uncertainty_accuracy_correlation": -0.05707864855434043,
+    "calibration_curve": [
+      {
+        "uncertainty_range": [
+          0.0,
+          0.1
+        ],
+        "avg_uncertainty": "0.040210646",
+        "accuracy": 0.3609022556390977,
+        "count": "399"
+      },
+      {
+        "uncertainty_range": [
+          0.1,
+          0.2
+        ],
+        "avg_uncertainty": "0.100523226",
+        "accuracy": 0.0,
+        "count": "1"
+      }
+    ],
+    "mean_uncertainty": "0.040361423",
+    "uncertainty_std": "0.016200515"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "model_type": "bayesian",
+  "uncertainty_accuracy_correlation": 0.13418276733103943,
+  "model_path": "uncertainty_training_output/best_uncertainty_model.pth",
+  "scaler_path": "uncertainty_training_output/uncertainty_scaler.pkl",
+  "feature_columns": [
+    "cs_br_concentration",
+    "pb_br2_concentration",
+    "temperature",
+    "oa_concentration",
+    "oam_concentration",
+    "reaction_time",
+    "solvent_type",
+    "cs_pb_ratio",
+    "supersaturation",
+    "ligand_ratio",
+    "temp_normalized",
+    "solvent_effect"
+  ],
+  "selection_date": "2025-06-22T09:15:09.978307"
+}

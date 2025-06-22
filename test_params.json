@@ -1,0 +1,9 @@
+{
+  "cs_br_concentration": 1.5,
+  "pb_br2_concentration": 1.0,
+  "temperature": 150.0,
+  "oa_concentration": 0.5,
+  "oam_concentration": 0.3,
+  "reaction_time": 60.0,
+  "solvent_type": "DMSO"
+}

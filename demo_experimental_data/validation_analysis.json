@@ -1,0 +1,157 @@
+[
+  {
+    "experiment_id": "EXP_20250622_085836",
+    "phase_prediction_correct": false,
+    "predicted_phase": "CsPbBr3_3D",
+    "actual_phase": "Failed",
+    "prediction_confidence": 0.429776132106781,
+    "actual_phase_purity": 0.182,
+    "property_accuracies": {
+      "bandgap": {
+        "predicted": 1.3280627727508545,
+        "actual": 1.357,
+        "relative_error_percent": 2.132441212169896
+      },
+      "plqy": {
+        "predicted": 1.8752188682556152,
+        "actual": 1.0,
+        "relative_error_percent": 87.52188682556152
+      },
+      "particle_size": {
+        "predicted": 0.4189339280128479,
+        "actual": 1.0,
+        "relative_error_percent": 58.10660719871521
+      },
+      "emission_peak": {
+        "predicted": 14.114639282226562,
+        "actual": 450.0,
+        "relative_error_percent": 96.86341349283855
+      }
+    },
+    "analysis_date": "2025-06-22T08:58:36.784269"
+  },
+  {
+    "experiment_id": "EXP_20250622_085836",
+    "phase_prediction_correct": false,
+    "predicted_phase": "CsPbBr3_3D",
+    "actual_phase": "Failed",
+    "prediction_confidence": 0.429776132106781,
+    "actual_phase_purity": 0.182,
+    "property_accuracies": {
+      "bandgap": {
+        "predicted": 1.3280627727508545,
+        "actual": 1.357,
+        "relative_error_percent": 2.132441212169896
+      },
+      "plqy": {
+        "predicted": 1.8752188682556152,
+        "actual": 1.0,
+        "relative_error_percent": 87.52188682556152
+      },
+      "particle_size": {
+        "predicted": 0.4189339280128479,
+        "actual": 1.0,
+        "relative_error_percent": 58.10660719871521
+      },
+      "emission_peak": {
+        "predicted": 14.114639282226562,
+        "actual": 450.0,
+        "relative_error_percent": 96.86341349283855
+      }
+    },
+    "analysis_date": "2025-06-22T08:58:36.793477"
+  },
+  {
+    "experiment_id": "EXP_20250622_085836",
+    "phase_prediction_correct": false,
+    "predicted_phase": "CsPbBr3_3D",
+    "actual_phase": "Failed",
+    "prediction_confidence": 0.429776132106781,
+    "actual_phase_purity": 0.182,
+    "property_accuracies": {
+      "bandgap": {
+        "predicted": 1.3280627727508545,
+        "actual": 1.357,
+        "relative_error_percent": 2.132441212169896
+      },
+      "plqy": {
+        "predicted": 1.8752188682556152,
+        "actual": 1.0,
+        "relative_error_percent": 87.52188682556152
+      },
+      "particle_size": {
+        "predicted": 0.4189339280128479,
+        "actual": 1.0,
+        "relative_error_percent": 58.10660719871521
+      },
+      "emission_peak": {
+        "predicted": 14.114639282226562,
+        "actual": 450.0,
+        "relative_error_percent": 96.86341349283855
+      }
+    },
+    "analysis_date": "2025-06-22T08:58:36.803974"
+  },
+  {
+    "experiment_id": "EXP_20250622_085836",
+    "phase_prediction_correct": false,
+    "predicted_phase": "CsPbBr3_3D",
+    "actual_phase": "Failed",
+    "prediction_confidence": 0.429776132106781,
+    "actual_phase_purity": 0.182,
+    "property_accuracies": {
+      "bandgap": {
+        "predicted": 1.3280627727508545,
+        "actual": 1.357,
+        "relative_error_percent": 2.132441212169896
+      },
+      "plqy": {
+        "predicted": 1.8752188682556152,
+        "actual": 1.0,
+        "relative_error_percent": 87.52188682556152
+      },
+      "particle_size": {
+        "predicted": 0.4189339280128479,
+        "actual": 1.0,
+        "relative_error_percent": 58.10660719871521
+      },
+      "emission_peak": {
+        "predicted": 14.114639282226562,
+        "actual": 450.0,
+        "relative_error_percent": 96.86341349283855
+      }
+    },
+    "analysis_date": "2025-06-22T08:58:36.813962"
+  },
+  {
+    "experiment_id": "EXP_20250622_085836",
+    "phase_prediction_correct": false,
+    "predicted_phase": "CsPbBr3_3D",
+    "actual_phase": "Failed",
+    "prediction_confidence": 0.429776132106781,
+    "actual_phase_purity": 0.182,
+    "property_accuracies": {
+      "bandgap": {
+        "predicted": 1.3280627727508545,
+        "actual": 1.357,
+        "relative_error_percent": 2.132441212169896
+      },
+      "plqy": {
+        "predicted": 1.8752188682556152,
+        "actual": 1.0,
+        "relative_error_percent": 87.52188682556152
+      },
+      "particle_size": {
+        "predicted": 0.4189339280128479,
+        "actual": 1.0,
+        "relative_error_percent": 58.10660719871521
+      },
+      "emission_peak": {
+        "predicted": 14.114639282226562,
+        "actual": 450.0,
+        "relative_error_percent": 96.86341349283855
+      }
+    },
+    "analysis_date": "2025-06-22T08:58:36.822672"
+  }
+]
